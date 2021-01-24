@@ -1,8 +1,4 @@
-﻿/// COMP 10204
-/// October 12, 2020
-/// 
-/// Assignment 3: Part B
-///     Form1 Designer Class
+﻿///     Form1 Designer Class
 ///     
 /// I certify that this material is my original 
 /// work. No other person's has been used without 
