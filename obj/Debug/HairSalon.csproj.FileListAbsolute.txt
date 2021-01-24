@@ -1,0 +1,10 @@
+C:\Users\Katie\Documents\GitHub\Hair-Salon\bin\Debug\Assignment3B.exe.config
+C:\Users\Katie\Documents\GitHub\Hair-Salon\bin\Debug\Assignment3B.exe
+C:\Users\Katie\Documents\GitHub\Hair-Salon\bin\Debug\Assignment3B.pdb
+C:\Users\Katie\Documents\GitHub\Hair-Salon\obj\Debug\HairSalon.csprojAssemblyReference.cache
+C:\Users\Katie\Documents\GitHub\Hair-Salon\obj\Debug\HairSalon.Form1.resources
+C:\Users\Katie\Documents\GitHub\Hair-Salon\obj\Debug\Assignment3B.Properties.Resources.resources
+C:\Users\Katie\Documents\GitHub\Hair-Salon\obj\Debug\HairSalon.csproj.GenerateResource.cache
+C:\Users\Katie\Documents\GitHub\Hair-Salon\obj\Debug\HairSalon.csproj.CoreCompileInputs.cache
+C:\Users\Katie\Documents\GitHub\Hair-Salon\obj\Debug\Assignment3B.exe
+C:\Users\Katie\Documents\GitHub\Hair-Salon\obj\Debug\Assignment3B.pdb

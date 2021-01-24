@@ -1,0 +1,10 @@
+H:\Semester 3\Programming in .NET\WEEK 5\Lab 3\Assignment3B\bin\Debug\Assignment3B.exe.config
+H:\Semester 3\Programming in .NET\WEEK 5\Lab 3\Assignment3B\bin\Debug\Assignment3B.exe
+H:\Semester 3\Programming in .NET\WEEK 5\Lab 3\Assignment3B\bin\Debug\Assignment3B.pdb
+H:\Semester 3\Programming in .NET\WEEK 5\Lab 3\Assignment3B\obj\Debug\Assignment3B.csprojAssemblyReference.cache
+H:\Semester 3\Programming in .NET\WEEK 5\Lab 3\Assignment3B\obj\Debug\Assignment3B.Form1.resources
+H:\Semester 3\Programming in .NET\WEEK 5\Lab 3\Assignment3B\obj\Debug\Assignment3B.Properties.Resources.resources
+H:\Semester 3\Programming in .NET\WEEK 5\Lab 3\Assignment3B\obj\Debug\Assignment3B.csproj.GenerateResource.cache
+H:\Semester 3\Programming in .NET\WEEK 5\Lab 3\Assignment3B\obj\Debug\Assignment3B.csproj.CoreCompileInputs.cache
+H:\Semester 3\Programming in .NET\WEEK 5\Lab 3\Assignment3B\obj\Debug\Assignment3B.exe
+H:\Semester 3\Programming in .NET\WEEK 5\Lab 3\Assignment3B\obj\Debug\Assignment3B.pdb
